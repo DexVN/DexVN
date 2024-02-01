@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Web and AI Chat Bot Developer From Viet Nam<br><br>Hello World!!</h3>
+<h3 align="center">A Web and AI Chat Bot Developer From Viet Nam<br>
 
 ###
 
