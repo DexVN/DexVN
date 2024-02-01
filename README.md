@@ -18,3 +18,8 @@ You can click the Preview link to take a look at your changes.
 ![KLD-VN GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KLD-VN&theme=dark)
 
 ![](https://visitcount.itsvg.in/api?id=kld-vn&label=Profile%20Views&pretty=false)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tf5233ktedo6hzekvhy65uz7ve)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tf5233ktedo6hzekvhy65uz7ve&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tf5233ktedo6hzekvhy65uz7ve&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tf5233ktedo6hzekvhy65uz7ve&unique={true|1|on|yes})
