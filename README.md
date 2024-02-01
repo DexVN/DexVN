@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="gitartwork.svg"  />
+  <img src="gitartwork.svg"  />
 </div>
 
 ###
