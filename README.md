@@ -8,3 +8,5 @@ KLD-VN/KLD-VN is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 [![](https://visitcount.itsvg.in/api?id=kld-vn&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+[![](https://github-profile-trophy.vercel.app/?username=KLD-VN&theme=onedark)
