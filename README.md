@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=kld-vn&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 [![](https://github-profile-trophy.vercel.app/?username=KLD-VN&theme=onedark)
+
+![KLD-VN GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KLD-VN&hide=B&theme=dark)
