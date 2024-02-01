@@ -3,7 +3,6 @@
 
 ![gitartwork](gitartwork.svg)
 
-- 👋 Hi, I’m @KLD-VN
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning Web Development, AI chatbot
 - 📫 Contact me by email: khanhld.developer@gmail.com
