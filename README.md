@@ -1,4 +1,4 @@
-<h1 align="center">Chào 👋, Tôi là KhánhLD (KLD-VN)</h1>
+<h1 align="center">Chào 👋, Tôi là Dex</h1>
 
 ###
 
