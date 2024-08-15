@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: khanhld
             # Text on contribution graph 
-            text: KLDVN
+            text: DEX
        - uses: jasineri/simple-push-action@v1
