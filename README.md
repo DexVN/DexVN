@@ -23,10 +23,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KLD-VN&theme=onedark" />
 </div>
 
+<br>
+
 <!-- Centered Profile Views counter -->
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=kld-vn&label=Profile%20Views&pretty=false" />
 </div>
+
+<br>
 
 <!-- Centered Spotify recently played -->
 <div align="center">
