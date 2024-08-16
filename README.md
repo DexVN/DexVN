@@ -26,7 +26,7 @@
 <!-- Centered GitHub Trophies -->
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=KLD-VN&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DexVN&theme=radical" />
 </div>
 
 <br>
