@@ -12,7 +12,7 @@
 
 <!-- Centered snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DexVn/DexVn/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DexVN/DexVN/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
