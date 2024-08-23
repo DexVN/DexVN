@@ -135,6 +135,12 @@ body {
   list-style-type: none;
 }
 
+.tech-stack {
+  width: 100%;
+  position: relative;
+  padding-bottom: 8rem;
+}
+
 @media (min-width: 768px) {
   .nav-link {
     text-align: right;
