@@ -49,9 +49,13 @@ body {
   font-family: poppins,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 
+img {
+  pointer-events: none;
+}
+
 .dex {
   width: 100%;
-  min-height: calc(100vh - 64px);
+  padding: 8rem 0;
   position: relative;
   display: flex;
   align-items: center;
@@ -147,6 +151,14 @@ body {
   max-width: 375px;
 }
 
+.dex-tech-stack .content {
+  margin-top: 8rem;
+}
+
+.dex-project .content {
+  margin-top: 8rem;
+}
+
 .card-footer a {
   text-decoration: none;  
 }
@@ -170,4 +182,21 @@ body {
     .dex-title {
         font-size: 4rem;
     }
+}
+
+@media (max-width: 768px) {
+  .dex {
+    padding: 0 0 4rem 0;
+  }
+  .dex-tech-stack {
+    padding-bottom: 4rem;
+  }
+
+  .dex-tech-stack .content {
+    margin-top: 1rem;
+  }
+
+  .dex-project .content {
+    margin-top: 4rem;
+  }
 }
