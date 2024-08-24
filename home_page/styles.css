@@ -1,4 +1,5 @@
 :root {
+  --bs-primary-rgb: 243, 18, 96;
   --bs-btn-color: #fff;
   --bs-btn-bg: #f31260;
   --bs-btn-hover-color: #fff;
@@ -27,6 +28,7 @@
   --bs-btn-disabled-opacity: 0.65;
   --bs-btn-focus-box-shadow: 0 0 0 0.25rem
     rgba(var(--bs-btn-focus-shadow-rgb), 0.5);
+
   .text-primary {
     --bs-primary-rgb: 243, 18, 96;
   }
@@ -135,10 +137,26 @@ body {
   list-style-type: none;
 }
 
-.tech-stack {
+.dex-tech-stack {
   width: 100%;
   position: relative;
   padding-bottom: 8rem;
+}
+
+.dex-project .project-item {
+  max-width: 375px;
+}
+
+.card-footer a {
+  text-decoration: none;  
+}
+
+.card-footer a span {
+  text-decoration: underline;
+}
+
+.card-body .card-text {
+  font-size: 1.125rem;
 }
 
 @media (min-width: 768px) {
