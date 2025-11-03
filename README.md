@@ -1,10 +1,6 @@
 <!-- Centered heading -->
 <h1 align="center">Hi there 👋</h1>
 
-<!-- Centered Profile Views counter -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dexvn&label=Profile%20Views&pretty=false" />
-</div>
 
 ###
 
