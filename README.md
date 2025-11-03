@@ -38,9 +38,3 @@
 
 <br>
 <br>
-
-
-<!-- Centered Spotify recently played -->
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tf5233ktedo6hzekvhy65uz7ve" alt="Alt text" />
-</div>
